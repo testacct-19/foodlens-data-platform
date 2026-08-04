@@ -1,0 +1,11 @@
+product_id,product_name,category,avg_shelf_life_days
+101,Milk,Dairy,7
+102,Bread,Bakery,5
+103,Eggs,Dairy,21
+104,Tomato,Vegetables,6
+105,Apple,Fruits,30
+106,Yogurt,Dairy,14
+107,Cheese,Dairy,20
+108,Rice,Grains,365
+109,Pasta,Grains,730
+110,Spinach,Vegetables,5
