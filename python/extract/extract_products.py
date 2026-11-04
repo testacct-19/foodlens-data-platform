@@ -1,5 +1,5 @@
 import csv #built in module
-file_path = "data/raw/productss.csv" #storing the path in a var
+file_path = "data/raw/products.csv" #storing the path in a var
 
 #opens file in read mode
 try:
